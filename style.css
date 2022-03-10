@@ -1,18 +1,15 @@
-/*Created by: Joanne Santhosh
+/* Created by: Joanne Santhosh
 * Created on: Mar 2022
-*This CSS file defines the style for index.html ICS20-Assignment-1-HTML-MDL*/
-
+*This CSS file defines the style for index.html ICS20-Assignment-1-HTML-MDL */
 
 body {
   background-color: #edd4d4;
 }
 
 .content {
-  background-color:  #f2b1b1;
+  background-color:#f2b1b1;
   color: #dd1d56;
-  font-family: "Lato", sans-serif;
+  font-family:Lato, sans-serif;
   max-width: 1080px;
   margin: 0 auto;
-  title:  3px solid #aae9df;
-}
-
+  }
